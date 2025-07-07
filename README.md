@@ -3,7 +3,8 @@
 
 ## Project Overview
 The work is built upon the foundational
-research presented in Wang et al. [DOI: 10.1109/CVPR.2017.369](https://doi.org/10.1109/CVPR.2017.369)
+research presented in Wang et al. [DOI: 10.1109/CVPR.2017.369](https://doi.org/10.1109/CVPR.2017.369).
+
 This repository contains the implementation of an Attention-Guided Convolutional Neural Network (AG-CNN) for multi-label classification of lung diseases from chest X-ray images. The project addresses the complexity of diagnosing lung diseases due to varying imaging conditions and subtle, overlapping pathologies by leveraging a dual-branch architecture with a fusion mechanism.
 The framework was assessed on a subset (10%) of the ChestMNIST dataset, comprising 112,120 frontal X-rays across 14 disease classes, and evaluated across three image resolutions (64x64, 128x128, 224x224).
 
